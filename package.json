@@ -1,0 +1,19 @@
+{
+  "name": "maintenanceapplicativeapi",
+  "version": "1.0.0",
+  "description": "Api pour le site vitrine cours Maintenance Applicative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyCheval/MaintenanceApplicativeApi.git"
+  },
+  "author": "Eddy Cheval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyCheval/MaintenanceApplicativeApi/issues"
+  },
+  "homepage": "https://github.com/EddyCheval/MaintenanceApplicativeApi#readme"
+}
